@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Авторизация</string>
+
+    <string name="main">Главная</string>
+    <string name="main_authorization">Авторизация</string>
+
+    <string name="auth">Авторизация</string>
+    <string name="auth_email">Электронная почта</string>
+    <string name="auth_pass">Пароль</string>
+    <string name="auth_empty_email">Введите e-mail</string>
+    <string name="auth_empty_pass">Введите пароль</string>
+    <string name="auth_unacceptable_email">Некорректный Email</string>
+    <string name="auth_unacceptable_pass">Пароль должен быть длиной от 6 знаков и содержать буквы верхнего и нижнего регистров, а также цифры.</string>
+    <string name="auth_connection_error">Ошибка подключения</string>
+    <string name="auth_log_in">Войти</string>
+    <string name="auth_make">создать</string>
+    <string name="auth_weather">Температура в Москве %s°C</string>
+    <string name="auth_registration_success">Вы успешно зарегестрировались</string>
+    <string name="auth_reset_pass_success">Инструкции по сбросу пороля высланы Вам на почту</string>
+
+    <string name="registration">Регистрация</string>
+    <string name="registration_register">Зарегестрироваться</string>
+
+    <string name="reset_pass">Сброс пороля</string>
+    <string name="reset_pass_send">Прислать пароль</string>
+</resources>
